@@ -2,6 +2,6 @@
 
 void main(void)
 {
-    float b;
+    int c;
     printf("Hello Again\r\n");
 }
